@@ -38,7 +38,7 @@ If you will not have an internet connection for your presentation, make sure the
 
 Content (slides text, diagrams, and CSS theme for the slides):
 
-- Copyright (C) 2015 Emma Jane Hogbin Westby
+- Copyright (C) 2017 Emma Jane Hogbin Westby, Dan Young
 - [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/), CC-BY
 
 Slide software (reveal.js):
