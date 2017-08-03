@@ -4,7 +4,6 @@ applications:
   disk: 128M
   memory: 64M
   instances: 1
-  path: _site/
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack
 
 language: staticfile
