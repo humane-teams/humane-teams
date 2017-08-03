@@ -1,0 +1,27 @@
+---
+resources:
+
+- name: humane-teams
+  type: git
+  source:
+    uri: https://github.com/humane-teams/humane-teams.git
+
+- name: pws
+  type: cf
+  source:
+    api: {{cf-api}}
+    username: {{cf-username}}
+    password: {{cf-password}}
+    organization: {{cf-organization}}
+    space: {{cf-space}}
+    skip_cert_check: true
+
+jobs:
+- name: deploy-site
+  serial: true
+  plan:
+  - {get: humane-teams, trigger: true}
+  - put: pws
+    params:
+      path: humane-teams
+      manifest: humane-teams/manifest.yml
