@@ -1,7 +1,7 @@
 # Humane Teams at Home and Around the World
 
-Dan Young, EngineerBetter
-Emma Hogbin Westby, United Nations, OCHA
+- Dan Young, EngineerBetter
+- Emma Hogbin Westby, United Nations, OCHA
 
 
 
@@ -12,3 +12,4 @@ Emma Hogbin Westby, United Nations, OCHA
 - Internal and external factors affecting your team
 - Lessons learned from remote, distributed, and collocated teams
 
+Note: to start a new slide: four new lines then #.
