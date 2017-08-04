@@ -12,4 +12,10 @@
 - Internal and external factors affecting your team
 - Lessons learned from remote, distributed, and collocated teams
 
-Note: to start a new slide: four new lines then #.
+Note: to start a new slide: four new lines then #
+
+
+
+# What is a humane team?
+
+What do we mean by this?
