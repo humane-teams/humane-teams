@@ -16,6 +16,35 @@ Note: to start a new slide: four new lines then #
 
 
 
-# What is a humane team?
+## What is a humane team?
 
-What do we mean by this?
+What do we even mean?
+
+Why does it matter?
+
+
+
+"I had begun to notice that the more *humanely* I treated myself and others, the more *productive* we all became"
+
+Kent Beck, XP Explained
+
+
+
+## Like this?
+* Kindness
+* Respect
+* Safe to be wrong
+* Authentic conversations
+* Meeting people’s needs
+
+
+## Not this
+* Too busy to improve
+* "Pick your battles"
+* Organisational self-harm
+* Heroics
+* Out groups
+
+
+## Bad times
+![Star](/images/death-spiral.svg "Death Spiral")
