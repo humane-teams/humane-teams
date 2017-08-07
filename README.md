@@ -34,6 +34,10 @@ If style changes are made to the SCSS file, you will need to re-create the theme
 
 If you will not have an internet connection for your presentation, make sure the Google Font Open Sans Condensed is installed locally. For your convenience, it is included in the folder `assets/fonts/open-sans` and is licensed separately.
 
+## Viewing
+
+Site is automatically [pushed](https://ci.engineerbetter.com/teams/main/pipelines/humane-teams) to [http://humane-teams.cfapps.io/](http://humane-teams.cfapps.io/)
+
 ## License
 
 Content (slides text, diagrams, and CSS theme for the slides):

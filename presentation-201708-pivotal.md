@@ -28,10 +28,14 @@ Why does it matter?
 
 Kent Beck, XP Explained
 
+
+
 ## Team member lifecycle
 * Joining
 * Working
 * Leaving
+
+
 
 ## Humane
 ### (Productive & Effective)
