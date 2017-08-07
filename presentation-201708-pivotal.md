@@ -21,7 +21,7 @@ Note: to start a new slide: four new lines then #
 ||Emma|Dan|
 |--|--|--|
 |Location:|Global|London|
-|Style:|Distributed|Collocated|
+|Structure:|Distributed|Collocated|
 |Approach:|Agile Manifesto|XP|
 
 
@@ -68,7 +68,7 @@ Kent Beck, XP Explained
 ![Death Spiral](/images/death-spiral.svg "Death Spiral")
 
 Note:
-Dan point out link between 5 Dysfunctions of a Team & Project Aristotle
+Dan - point out link between 5 Dysfunctions of a Team & Project Aristotle
 
 
 
