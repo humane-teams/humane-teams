@@ -28,23 +28,37 @@ Why does it matter?
 
 Kent Beck, XP Explained
 
+## Team member lifecycle
+* Joining
+* Working
+* Leaving
 
-
-## Like this?
-* Kindness
-* Respect
+## Humane
+### (Productive & Effective)
+* Kindness & Respect
 * Safe to be wrong
 * Authentic conversations
 * Meeting people’s needs
 
 
-## Not this
+
+## Inhumane
+### (Unproductive & Ineffective)
 * Too busy to improve
-* "Pick your battles"
-* Organisational self-harm
+* When you "pick your battles"
 * Heroics
-* Out groups
+* Practices without Values
 
 
-## Bad times
-![Star](/images/death-spiral.svg "Death Spiral")
+## Death Spiral
+![Death Spiral](/images/death-spiral.svg "Death Spiral")
+
+
+
+## Heroics
+![Heroics](/images/heroics.jpg "Heroics")
+
+
+
+## Dopamine
+![Dopamine](/images/dopamine.png "Dopamine")

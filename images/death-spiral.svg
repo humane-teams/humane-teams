@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="698px" height="464px" viewBox="0 0 698 464" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="756px" height="484px" viewBox="0 0 756 484" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
     <title>death-spiral</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">
-        <text id="⤴︎" transform="translate(140.500000, 367.500000) scale(-1, 1) translate(-140.500000, -367.500000) " font-size="100" fill="#000000">
-            <tspan x="76" y="385">⤴︎</tspan>
+        <text id="⤴︎" transform="translate(167.500000, 369.500000) scale(-1, 1) translate(-167.500000, -369.500000) " font-size="100" fill="#000000">
+            <tspan x="103" y="387">⤴︎</tspan>
         </text>
-        <text id="⤴︎" transform="translate(140.500000, 79.500000) scale(-1, 1) rotate(-90.000000) translate(-140.500000, -79.500000) " font-size="100" fill="#000000">
-            <tspan x="61" y="86">⤴︎</tspan>
+        <text id="⤴︎" transform="translate(167.500000, 81.500000) scale(-1, 1) rotate(-90.000000) translate(-167.500000, -81.500000) " font-size="100" fill="#000000">
+            <tspan x="88" y="88">⤴︎</tspan>
         </text>
-        <text id="⤴︎" transform="translate(618.500000, 84.500000) scale(-1, 1) rotate(-180.000000) translate(-618.500000, -84.500000) " font-size="100" fill="#000000">
-            <tspan x="539" y="91">⤴︎</tspan>
+        <text id="⤴︎" transform="translate(645.500000, 86.500000) scale(-1, 1) rotate(-180.000000) translate(-645.500000, -86.500000) " font-size="100" fill="#000000">
+            <tspan x="566" y="93">⤴︎</tspan>
         </text>
-        <text id="⤴︎" transform="translate(608.500000, 383.500000) scale(-1, 1) rotate(-270.000000) translate(-608.500000, -383.500000) " font-size="100" fill="#000000">
-            <tspan x="529" y="390">⤴︎</tspan>
+        <text id="⤴︎" transform="translate(635.500000, 385.500000) scale(-1, 1) rotate(-270.000000) translate(-635.500000, -385.500000) " font-size="100" fill="#000000">
+            <tspan x="556" y="392">⤴︎</tspan>
         </text>
         <text id="Low-Trust-Low-Safety" font-size="25" fill="#000000">
-            <tspan x="313.675" y="66">Low Trust </tspan>
-            <tspan x="305.4375" y="91">Low Safety</tspan>
+            <tspan x="340.675" y="68">Low Trust </tspan>
+            <tspan x="332.4375" y="93">Low Safety</tspan>
         </text>
         <text id="Lack-of-authentic-co" font-size="25" fill="#000000">
-            <tspan x="481.325" y="220">Lack of authentic</tspan>
-            <tspan x="494.9375" y="245">communication</tspan>
+            <tspan x="508.325" y="222">Lack of authentic</tspan>
+            <tspan x="521.9375" y="247">communication</tspan>
         </text>
         <text id="Wasted-time-&amp;-effort" font-size="25" fill="#000000">
-            <tspan x="231.7375" y="385">Wasted time &amp; effort</tspan>
-            <tspan x="231.1875" y="410">Lack of accountabiliy</tspan>
+            <tspan x="258.7375" y="387">Wasted time &amp; effort</tspan>
+            <tspan x="258.1875" y="412">Lack of accountabiliy</tspan>
         </text>
         <text id="Poor-sense-of-progre" font-size="25" fill="#000000">
-            <tspan x="0.425" y="220">Poor sense of progress</tspan>
-            <tspan x="33.475" y="245">Folks checked out</tspan>
+            <tspan x="27.425" y="222">Poor sense of progress</tspan>
+            <tspan x="60.475" y="247">Folks checked out</tspan>
         </text>
     </g>
 </svg>
