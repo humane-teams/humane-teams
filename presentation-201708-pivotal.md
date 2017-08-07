@@ -89,10 +89,13 @@ Note: Dan - explain that these values appear to be an antidote to the death spir
 Note: Dan - heroes I have known. Some of the nicest people I have ever met.
 
 
+
 ## Dopamine
 ![Dopamine](/images/dopamine.png "Dopamine")
 
 Note: Dan - story on breaking down stories; using our natural reward system to help new folks learning
+
+
 
 ## If it works, write it down
 
