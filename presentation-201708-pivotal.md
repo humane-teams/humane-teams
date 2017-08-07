@@ -67,6 +67,20 @@ Kent Beck, XP Explained
 ## Death Spiral
 ![Death Spiral](/images/death-spiral.svg "Death Spiral")
 
+Note:
+Dan point out link between 5 Dysfunctions of a Team & Project Aristotle
+
+
+
+## XP Values
+*Courage
+*Respect
+*Communication
+*Feedback
+*Simplicity
+
+Note: Dan - explain that these values appear to be an antidote to the death spiral
+
 
 
 ## Heroics
