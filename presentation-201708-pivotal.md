@@ -16,6 +16,16 @@ Note: to start a new slide: four new lines then #
 
 
 
+## Who are we?
+
+||Emma|Dan|
+|--|--|--|
+|Location:|Global|London|
+|Style:|Distributed|Collocated|
+|Approach:|Agile Manifesto|XP|
+
+
+
 ## What is a humane team?
 
 What do we even mean?
