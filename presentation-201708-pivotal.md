@@ -43,12 +43,6 @@ Kent Beck, XP Explained
 
 
 
-## Team member lifecycle
-
-### Joining  → Working → Leaving
-
-
-
 ## Humane
 ### (Productive & Effective)
 * Kindness & Respect
@@ -64,6 +58,36 @@ Kent Beck, XP Explained
 * When you "pick your battles"
 * Heroics
 * Practices without Values
+
+
+
+## Team member lifecycle
+
+### Joining → Working → Leaving
+
+
+
+# Joining Teams
+
+* Getting hired
+* Onboarding
+
+
+
+# Working in Teams
+* Planning / Meetings
+* Generating Code
+* Retros / Evaluations
+
+Note: We're going to discuss stories and experiences of generating code
+
+
+
+# Leaving Teams
+
+* Moving On
+* Getting fired
+
 
 
 ## Death Spiral
@@ -88,6 +112,18 @@ Note: Dan - heroes I have known. Some of the nicest people I have ever met.
 
 
 
+## We broke the team
+* Shifting from collocated → dispersed
+* Part-time members
+* Communicating presence
+* Supporting new hires
+* AV/meeting room nightmares
+
+Note: Dan - Shift from entirely co-located, to partly remote PM, to ad-hoc remoteness
+We've had some difficult experiences when we've injected randomness into our locations. We were ill prepared for this.
+
+
+
 ## Dopamine
 ![Dopamine](/images/dopamine.png "Dopamine")
 
@@ -96,5 +132,10 @@ Note: Dan - story on breaking down stories; using our natural reward system to h
 
 
 ## If it works, write it down
+Then read/review it regularly
+![Write it Down](/images/write-it-down.jpg "Write it Down")
 
-Note: Dan - story about how retrospective git repo has helped. Emma - explain natural tendancy to write things down in distributed teams.
+Note:
+Dan - story about how retrospective git repo has helped.
+
+Emma - explain natural tendancy to write things down in distributed teams.
