@@ -12,17 +12,18 @@
 - Internal and external factors affecting your team
 - Lessons learned from remote, distributed, and collocated teams
 
-Note: to start a new slide: four new lines then #
+Note:
 
 
 
 ## Who are we?
 
-||Emma|Dan|
+||Locations|Structure|Approach|
 |--|--|--|
-|Location:|Global|London|
-|Structure:|Distributed|Collocated|
-|Approach:|Agile Manifesto|XP|
+|Emma:|Global|Distributed|Agile Manifesto|
+|Dan:|London|Collocated|XP|
+
+Note: Dan mentions inspiration for doing a joint-talk & awareness of bias
 
 
 
@@ -31,6 +32,8 @@ Note: to start a new slide: four new lines then #
 What do we even mean?
 
 Why does it matter?
+
+Note:
 
 
 
@@ -41,9 +44,8 @@ Kent Beck, XP Explained
 
 
 ## Team member lifecycle
-* Joining
-* Working
-* Leaving
+
+### Joining  → Working → Leaving
 
 
 
@@ -73,11 +75,7 @@ Dan - point out link between 5 Dysfunctions of a Team & Project Aristotle
 
 
 ## XP Values
-* Courage
-* Respect
-* Communication
-* Feedback
-* Simplicity
+![Death Spiral Antidote](/images/death-spiral-antidote.svg "Death Spiral Antidote")
 
 Note: Dan - explain that these values appear to be an antidote to the death spiral
 
@@ -99,4 +97,4 @@ Note: Dan - story on breaking down stories; using our natural reward system to h
 
 ## If it works, write it down
 
-Note: Dan - story about how retrospective git repo has helped
+Note: Dan - story about how retrospective git repo has helped. Emma - explain natural tendancy to write things down in distributed teams.
