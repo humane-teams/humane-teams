@@ -73,6 +73,9 @@ Kent Beck, XP Explained
 * Onboarding
 
 
+## Hiring for social sensitivity
+
+
 
 # Working in Teams
 * Planning / Meetings
@@ -109,6 +112,7 @@ Note: Dan - heroes I have known. Some of the nicest people I have ever met.
 * Shifting from collocated → dispersed
 * Part-time members
 * Communicating presence
+* Remote pairing
 * Supporting new hires
 * AV/meeting room nightmares
 
@@ -120,7 +124,7 @@ We've had some difficult experiences when we've injected randomness into our loc
 ## Dopamine
 ![Dopamine](/images/dopamine.png "Dopamine")
 
-Note: Dan - story on breaking down stories; using our natural reward system to help new folks learning
+Note: Dan - story on breaking down stories; using our natural reward system to help humans
 
 
 
@@ -130,7 +134,7 @@ Then read/review it regularly
 Note:
 Dan - story about how retrospective git repo has helped.
 
-Emma - explain natural tendancy to write things down in distributed teams.
+Emma - explain why it's great that distributed teams write things down.
 
 
 
@@ -138,3 +142,7 @@ Emma - explain natural tendancy to write things down in distributed teams.
 
 * Moving On
 * Getting fired
+
+
+
+# Summary
