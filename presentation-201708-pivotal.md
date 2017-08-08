@@ -83,13 +83,6 @@ Note: We're going to discuss stories and experiences of generating code
 
 
 
-# Leaving Teams
-
-* Moving On
-* Getting fired
-
-
-
 ## Death Spiral
 ![Death Spiral](/images/death-spiral.svg "Death Spiral")
 
@@ -133,9 +126,15 @@ Note: Dan - story on breaking down stories; using our natural reward system to h
 
 ## If it works, write it down
 Then read/review it regularly
-![Write it Down](/images/write-it-down.jpg "Write it Down")
 
 Note:
 Dan - story about how retrospective git repo has helped.
 
 Emma - explain natural tendancy to write things down in distributed teams.
+
+
+
+# Leaving Teams
+
+* Moving On
+* Getting fired
