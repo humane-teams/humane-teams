@@ -7,10 +7,12 @@
 
 # Agenda
 
-- Definition of a humane team
-- Employee lifecycle
-- Internal and external factors affecting your team
-- Lessons learned from remote, distributed, and collocated teams
+- Who are we?
+- What is a humane team?
+- The Employee lifecycle:
+    - Lessons learned
+    - Internal and external factors
+- Summary
 
 Note:
 
