@@ -67,7 +67,7 @@ Kent Beck, XP Explained
 
 
 
-# Joining Teams
+## Joining Teams
 
 * Getting hired
 * Onboarding
@@ -77,7 +77,7 @@ Kent Beck, XP Explained
 
 
 
-# Working in Teams
+## Working in Teams
 * Planning / Meetings
 * Generating Code
 * Retros / Evaluations
@@ -138,11 +138,14 @@ Emma - explain why it's great that distributed teams write things down.
 
 
 
-# Leaving Teams
+## Leaving Teams
 
 * Moving On
 * Getting fired
 
 
 
-# Summary
+## Non-violent Communication
+
+
+## Summary
