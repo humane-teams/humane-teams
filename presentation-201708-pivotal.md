@@ -147,7 +147,11 @@ Emma - explain why it's great that distributed teams write things down.
 
 
 
-## Non-violent Communication
+## References
+* Nonviolent Communication - Marshall Rosenberg
+* Extreme Programming Explained - Kent Beck
+* 5 Dysfunctions of a Team - Patrick Lencioni
+* Google, Project Aristotle
 
 
 ## Summary
