@@ -147,6 +147,10 @@ Emma - explain why it's great that distributed teams write things down.
 
 
 
+## Summary
+
+
+
 ## References
 * Nonviolent Communication - Marshall Rosenberg
 * Extreme Programming Explained - Kent Beck
@@ -154,4 +158,6 @@ Emma - explain why it's great that distributed teams write things down.
 * Google, Project Aristotle
 
 
-## Summary
+
+## A work in progress
+https://github.com/humane-teams
