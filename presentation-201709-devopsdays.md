@@ -1,59 +1,28 @@
 # Humane Teams at Home and Around the World
 
-- Dan Young, EngineerBetter
-- Emma Hogbin Westby, United Nations, OCHA
+Dan Young, EngineerBetter
+(@dan0young)
+Emma Hogbin Westby, United Nations, OCHA
+(@emmajanehw)
 
 
 
-# Agenda
+## This talk
 
 - Who are we?
 - What is a humane team?
-- The Employee lifecycle:
-    - Lessons learned
-    - Internal and external factors
-- Summary
+- How can we improve?
 
 Note:
 
 
 
 ## Who are we?
-
-||Locations|Structure|Approach|
-|--|--|--|
-|Emma (@emmajanehw):|Global|Distributed|Agile Manifesto|
-|Dan (@dan0young):|London|Collocated|XP|
-
-Note: Dan mentions inspiration for doing a joint-talk & awareness of bias
+![Sliding Scale](/images/sliding-scale.svg "Sliding Scale")
 
 
 
-"I had begun to notice that the more *humanely* I treated myself and others, the more *productive* we all became"
-
-Kent Beck, XP Explained
-
-
-
-## Humane
-### (Productive & Effective)
-* Kindness & Respect
-* Safe to be wrong
-* Authentic conversations
-* Meeting people’s needs
-
-
-
-## Inhumane
-### (Unproductive & Ineffective)
-* Too busy to improve
-* When you "pick your battles"
-* Heroics
-* Practices without Values
-
-
-
-## Death Spiral
+## Business as Usual
 ![Death Spiral](/images/death-spiral.svg "Death Spiral")
 
 Note:
@@ -61,13 +30,29 @@ Dan - point out link between 5 Dysfunctions of a Team & Project Aristotle
 
 
 
+## Inhumane
+### (Unproductive & Ineffective)
+
+* Picking your battles
+* Practices without Values
+* Heroes
+
+
+
+## Humane
+### (Productive & Effective)
+
+* Kindness & Respect
+* Safe to be wrong
+* Authentic conversations
+
+
+
 ## We broke the team
-* Shifting from collocated → dispersed
-* Part-time members
+* Collocated → dispersed
 * Communicating presence
 * (Remote) pairing
 * Supporting new hires
-* AV/meeting room nightmares
 
 Note: Dan - Shift from entirely co-located, to partly remote PM, to ad-hoc remoteness
 We've had some difficult experiences when we've injected randomness into our locations. We were ill prepared for this.
@@ -76,7 +61,7 @@ We've had some difficult experiences when we've injected randomness into our loc
 
 ## Team member lifecycle
 
-### Joining → Working → Leaving
+![Lifecycle](/images/lifecycle.svg "Lifecycle")
 
 
 
@@ -115,8 +100,8 @@ Note: Dan - explain that these values appear to be an antidote to the death spir
 
 
 ## Agile Manifesto
+![Agile Manifesto](/images/agile-manifesto.png "Agile Manifesto")
 
 
 
-## A work in progress
-https://github.com/humane-teams
+## Summary
