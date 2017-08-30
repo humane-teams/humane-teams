@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="624px" height="418px" viewBox="0 0 624 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>death-spiral</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">
+        <text id="⤴︎" transform="translate(431.854522, 154.182388) scale(-1, 1) rotate(-197.000000) translate(-431.854522, -154.182388) " font-size="100" fill="#000000">
+            <tspan x="352.354522" y="160.682388">⤴︎</tspan>
+        </text>
+        <text id="⤴︎" transform="translate(183.346708, 151.241554) scale(-1, 1) rotate(-68.000000) translate(-183.346708, -151.241554) " font-size="100" fill="#000000">
+            <tspan x="103.846708" y="157.741554">⤴︎</tspan>
+        </text>
+        <text id="⤴︎" transform="translate(310.167964, 336.823265) scale(-1, 1) rotate(-308.000000) translate(-310.167964, -336.823265) " font-size="100" fill="#000000">
+            <tspan x="230.667964" y="343.323265">⤴︎</tspan>
+        </text>
+        <text id="Joining" font-size="25" fill="#000000">
+            <tspan x="266.425" y="105">Joining</tspan>
+        </text>
+        <text id="Working" font-size="25" fill="#000000">
+            <tspan x="390.3375" y="271">Working</tspan>
+        </text>
+        <text id="Leaving" font-size="25" fill="#000000">
+            <tspan x="135.425" y="271">Leaving</tspan>
+        </text>
+    </g>
+</svg>
