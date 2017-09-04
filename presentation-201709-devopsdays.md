@@ -116,7 +116,7 @@ Collocated, distributed, and blended teams *can* all work well...if you:
 
    * start with shared values.
    * make work achievable.
-   * prepare for their next context.
+   * prepare for your next context.
    * codify what works.
 
 Resources: https://github.com/humane-teams
