@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="756px" height="484px" viewBox="0 0 756 484" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>death-spiral</title>
+    <title>xp-values</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -23,19 +23,33 @@
                 <polygon id="Arrowhead" fill="#000000" transform="translate(75.437763, 12.000000) rotate(147.851152) translate(-75.437763, -12.000000) " points="83.4377627 20 67.4377627 12 83.4377627 4"></polygon>
             </g>
         </g>
-        <text id="Low-Trust.-Low-Safet" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+        <text id="Low-Trust.-Low-Safet" opacity="0.5" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
             <tspan x="364.205" y="68">Low Trust. </tspan>
             <tspan x="359.2625" y="83">Low Safety.</tspan>
         </text>
-        <text id="No-authentic-communi" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+        <g id="XP-Values" transform="translate(263.000000, 117.000000)" font-size="36" font-family="HiraginoSans-W3, Hiragino Sans" fill="#4A90E2" font-weight="300">
+            <text id="Respect">
+                <tspan x="66.492" y="32">Respect</tspan>
+            </text>
+            <text id="Communication">
+                <tspan x="0.126" y="154">Communication</tspan>
+            </text>
+            <text id="Feedback">
+                <tspan x="53.136" y="214">Feedback</tspan>
+            </text>
+            <text id="Courage">
+                <tspan x="63.306" y="93">Courage</tspan>
+            </text>
+        </g>
+        <text id="No-authentic-communi" opacity="0.5" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
             <tspan x="520.355" y="224">No authentic communication.</tspan>
             <tspan x="554.03" y="239">Issues not surfaced.</tspan>
         </text>
-        <text id="Wasted-time-&amp;-effort" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+        <text id="Wasted-time-&amp;-effort" opacity="0.5" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
             <tspan x="322.7425" y="387">Wasted time &amp; effort.</tspan>
             <tspan x="322.4125" y="402">Lack of accountabiliy.</tspan>
         </text>
-        <text id="Poor-sense-of-progre" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+        <text id="Poor-sense-of-progre" opacity="0.5" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
             <tspan x="67.055" y="224">Poor sense of progress.</tspan>
             <tspan x="86.885" y="239">Folks checked out.</tspan>
         </text>

@@ -1,27 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="624px" height="418px" viewBox="0 0 624 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>death-spiral</title>
+    <title>lifecycle</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">
-        <text id="⤴︎" transform="translate(431.854522, 154.182388) scale(-1, 1) rotate(-197.000000) translate(-431.854522, -154.182388) " font-size="100" fill="#000000">
-            <tspan x="352.354522" y="160.682388">⤴︎</tspan>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="offboarding" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="490.1425" y="231">offboarding</tspan>
         </text>
-        <text id="⤴︎" transform="translate(183.346708, 151.241554) scale(-1, 1) rotate(-68.000000) translate(-183.346708, -151.241554) " font-size="100" fill="#000000">
-            <tspan x="103.846708" y="157.741554">⤴︎</tspan>
+        <text id="Leaving" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
+            <tspan x="485.425" y="216">Leaving</tspan>
         </text>
-        <text id="⤴︎" transform="translate(310.167964, 336.823265) scale(-1, 1) rotate(-308.000000) translate(-310.167964, -336.823265) " font-size="100" fill="#000000">
-            <tspan x="230.667964" y="343.323265">⤴︎</tspan>
+        <g id="Arrow" transform="translate(415.000000, 201.000000)" fill="#000000">
+            <path d="M0.416730868,9.5 L54.5,9.5" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square"></path>
+            <polygon id="Arrowhead" transform="translate(54.500000, 8.500000) rotate(180.000000) translate(-54.500000, -8.500000) " points="62.5 16.5 46.5 8.5 62.5 0.5"></polygon>
+        </g>
+        <g id="Arrow" transform="translate(195.000000, 115.000000)">
+            <g transform="translate(87.000000, 74.000000)">
+                <path d="M13.0396345,53.3453252 C85.6146448,13.307478 123.735483,30.2885544 127.40215,104.288554" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square" transform="translate(70.220892, 68.274195) rotate(119.000000) translate(-70.220892, -68.274195) "></path>
+                <polygon id="Arrowhead" fill="#000000" transform="translate(11.000000, 100.825942) rotate(24.851152) translate(-11.000000, -100.825942) " points="19 108.825942 3 100.825942 19 92.8259422"></polygon>
+            </g>
+            <g transform="translate(79.000000, 0.000000)">
+                <path d="M0.5,22.5 C75.8333333,-18.5 115.333333,-2 119,72" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square"></path>
+                <polygon id="Arrowhead" fill="#000000" transform="translate(119.000000, 72.000000) rotate(-94.148848) translate(-119.000000, -72.000000) " points="127 80 111 72 127 64"></polygon>
+            </g>
+            <g transform="translate(0.000000, 25.000000)">
+                <path d="M1.17070068,66.6640974 C73.2301818,24.1983754 111.093256,39.9655143 114.759922,113.965514" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square" transform="translate(57.965312, 78.701920) rotate(242.000000) translate(-57.965312, -78.701920) "></path>
+                <polygon id="Arrowhead" fill="#000000" transform="translate(62.437763, 12.000000) rotate(147.851152) translate(-62.437763, -12.000000) " points="70.4377627 20 54.4377627 12 70.4377627 4"></polygon>
+            </g>
+        </g>
+        <text id="review" transform="translate(221.205974, 255.172236) rotate(40.000000) translate(-221.205974, -255.172236) " font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="197.520974" y="260.672236">review</tspan>
         </text>
-        <text id="Joining" font-size="25" fill="#000000">
-            <tspan x="266.425" y="105">Joining</tspan>
+        <text id="execute" transform="translate(391.072094, 290.863778) rotate(-52.000000) translate(-391.072094, -290.863778) " font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="361.912094" y="296.363778">execute</tspan>
         </text>
-        <text id="Working" font-size="25" fill="#000000">
-            <tspan x="390.3375" y="271">Working</tspan>
+        <text id="plan" transform="translate(329.570058, 102.300480) rotate(-4.000000) translate(-329.570058, -102.300480) " font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="314.030058" y="107.80048">plan</tspan>
         </text>
-        <text id="Leaving" font-size="25" fill="#000000">
-            <tspan x="135.425" y="271">Leaving</tspan>
+        <text id="Working" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
+            <tspan x="258.3375" y="216">Working</tspan>
+        </text>
+        <g id="Arrow" transform="translate(127.000000, 202.000000)" fill="#000000">
+            <path d="M0.5,8.5 L68.5454311,8.5" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square"></path>
+            <polygon id="Arrowhead" transform="translate(68.545431, 8.500000) rotate(180.000000) translate(-68.545431, -8.500000) " points="76.5454311 16.5 60.5454311 8.5 76.5454311 0.5"></polygon>
+        </g>
+        <text id="onboarding" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="36.035" y="232">onboarding</tspan>
+        </text>
+        <text id="Joining" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
+            <tspan x="33.425" y="216">Joining</tspan>
         </text>
     </g>
 </svg>

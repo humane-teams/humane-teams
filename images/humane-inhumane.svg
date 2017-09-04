@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="767px" height="257px" viewBox="0 0 767 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>sliding-scale</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Authentic-conversati" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#4A90E2">
+            <tspan x="263" y="52">Authentic </tspan>
+            <tspan x="263" y="67">conversations</tspan>
+        </text>
+        <path d="M118.5,133.5 L624.5,133.5" id="Line" stroke="#979797" stroke-width="5" stroke-linecap="square"></path>
+        <path d="M117.5,108.359375 L117.5,153.640625" id="Line-2" stroke="#979797" stroke-width="5" stroke-linecap="square"></path>
+        <path d="M627.5,108.359375 L627.5,153.640625" id="Line-2" stroke="#979797" stroke-width="5" stroke-linecap="square"></path>
+        <text id="Humane" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
+            <tspan x="64.15" y="205">Humane</tspan>
+        </text>
+        <text id="Inhumane" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
+            <tspan x="572.325" y="205">Inhumane</tspan>
+        </text>
+        <text id="Kindness-&amp;-Respect-S" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#4A90E2">
+            <tspan x="96" y="52">Kindness &amp; Respect</tspan>
+            <tspan x="96" y="67">Safe to be wrong</tspan>
+        </text>
+        <text id="Unpredictable-actors" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#4A90E2">
+            <tspan x="542" y="52">Unpredictable actors</tspan>
+            <tspan x="542" y="67">Picking your battles</tspan>
+        </text>
+        <path d="M169.5,77.5 L169.5,121.5" id="Line-3" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path id="Line-3-decoration-1" d="M169.5,121.5 L172.5,110.7 L166.5,110.7 L169.5,121.5 Z" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path d="M297.5,77.5 L297.5,121.5" id="Line-3" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path id="Line-3-decoration-1" d="M297.5,121.5 L300.5,110.7 L294.5,110.7 L297.5,121.5 Z" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path d="M596.5,77.5 L596.5,121.5" id="Line-3" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path id="Line-3-decoration-1" d="M596.5,121.5 L599.5,110.7 L593.5,110.7 L596.5,121.5 Z" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <text id="Heroes" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#4A90E2">
+            <tspan x="436.405" y="67">Heroes</tspan>
+        </text>
+        <path d="M465.5,77.5 L465.5,121.5" id="Line-3" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path id="Line-3-decoration-1" d="M465.5,121.5 L468.5,110.7 L462.5,110.7 L465.5,121.5 Z" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <text id="Unproductive-and-ine" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="525.1675" y="229">Unproductive and ineffective</tspan>
+        </text>
+        <text id="Productive-and-effec" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" fill="#000000">
+            <tspan x="25.4075" y="229">Productive and effective</tspan>
+        </text>
+    </g>
+</svg>

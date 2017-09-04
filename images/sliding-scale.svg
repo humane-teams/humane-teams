@@ -5,24 +5,24 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M89.5,106.5 L594.5,112.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
-        <path d="M89.5,84.359375 L89.5,129.640625" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
-        <path d="M595.5,90.359375 L595.5,135.640625" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M88.5,112.5 L594.5,112.5" id="Line" stroke="#979797" stroke-width="5" stroke-linecap="square"></path>
+        <path d="M87.5,87.359375 L87.5,132.640625" id="Line-2" stroke="#979797" stroke-width="5" stroke-linecap="square"></path>
+        <path d="M597.5,87.359375 L597.5,132.640625" id="Line-2" stroke="#979797" stroke-width="5" stroke-linecap="square"></path>
         <text id="Collocated" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
             <tspan x="24.3875" y="184">Collocated</tspan>
         </text>
         <text id="Distributed" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#000000">
             <tspan x="525.4625" y="184">Distributed</tspan>
         </text>
-        <text id="Dan" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#0036F9">
+        <text id="Dan" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#4A90E2">
             <tspan x="203.1125" y="45">Dan</tspan>
         </text>
-        <text id="Emma" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#0036F9">
+        <text id="Emma" font-family="HiraginoSans-W3, Hiragino Sans" font-size="25" font-weight="300" fill="#4A90E2">
             <tspan x="525" y="45">Emma</tspan>
         </text>
-        <path d="M228.5,59.5 L228.5,103.5" id="Line-3" stroke="#004BFF" fill="#004CFF" stroke-linecap="square"></path>
-        <path id="Line-3-decoration-1" d="M228.5,103.5 L231.5,92.7 L225.5,92.7 L228.5,103.5 Z" stroke="#004BFF" fill="#004CFF" stroke-linecap="square"></path>
-        <path d="M565.5,59.5 L565.5,103.5" id="Line-3" stroke="#004BFF" fill="#004CFF" stroke-linecap="square"></path>
-        <path id="Line-3-decoration-1" d="M565.5,103.5 L568.5,92.7 L562.5,92.7 L565.5,103.5 Z" stroke="#004BFF" fill="#004CFF" stroke-linecap="square"></path>
+        <path d="M229.5,59.5 L229.5,103.5" id="Line-3" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path id="Line-3-decoration-1" d="M229.5,103.5 L232.5,92.7 L226.5,92.7 L229.5,103.5 Z" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path d="M566.5,59.5 L566.5,103.5" id="Line-3" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
+        <path id="Line-3-decoration-1" d="M566.5,103.5 L569.5,92.7 L563.5,92.7 L566.5,103.5 Z" stroke="#4A90E2" stroke-width="5" fill="#4A90E2" stroke-linecap="square"></path>
     </g>
 </svg>
