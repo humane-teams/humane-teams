@@ -17,6 +17,11 @@ You will leave this presentation with a better capacity to examine and optimise 
 - DevOps Days London
 
 
+## Resources
+
+A list of related articles, books, and other interesting readings are available on the [resources page](resources.md). Please do contribute your own suggestions via a pull request on GitHub, or via Twitter.
+
+
 ## Viewing the Presentation
 
 Online: (stay tuned!)
