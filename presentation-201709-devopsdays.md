@@ -78,6 +78,7 @@ Note: Make it obvious how to communicate immediately in any context. Hardware, A
 
 
 ## Make work achievable
+### (Dopamine!)
 ![Dopamine](/images/dopamine.png "Dopamine")
 
 Note: Dan - story on breaking down stories; using our natural reward system to help humans
