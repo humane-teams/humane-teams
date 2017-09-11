@@ -5,6 +5,7 @@
 - [Articles and talks by Jennifer Tucker on motivating teams](http://tuckertalk.net/blog2/articles-and-presentations/)
 - [Extreme Programming Explained](https://www.amazon.co.uk/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/books/dysfunctions) by Patrick Lencioni
+- [GitLab Handbook](https://about.gitlab.com/handbook/) example of a corporate handbook as referenced in our talk at [DevOps Days London](https://www.youtube.com/watch?time_continue=5&v=9hN_p1xjXDo).
 - [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) by Marshall Rosenberg
 - [Postfacto](https://postfacto.io/) - an online app to support collocated, distributed, and blended teams
 - Project Aristotle, Google
