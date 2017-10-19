@@ -9,3 +9,5 @@
 - [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) by Marshall Rosenberg
 - [Postfacto](https://postfacto.io/) - an online app to support collocated, distributed, and blended teams
 - Project Aristotle, Google
+- [Realtimeboard](http://www.realtimeboard.com/) - collaborative whiteboard tool. Good for post-it note style boards in distributed teams
+- [EngineerBetter Introspection](https://github.com/EngineerBetter/introspection/) - Questions and Ideas to make sure we're doing the right thing
