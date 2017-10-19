@@ -25,6 +25,14 @@ Note:
 Note: Transition to next slide: the genesis for this talk was looking at how we've broken our teams
 
 
+## Team Death Spiral
+![Death Spiral](/images/death-spiral.svg "Death Spiral")
+
+Note:
+Dan - point out link between 5 Dysfunctions of a Team & Project Aristotle. Transition to next slide: so how do you climb out of this death spiral?
+
+
+
 ## We broke the team
 * Collocated → dispersed
 * Communicating presence
@@ -33,13 +41,6 @@ Note: Transition to next slide: the genesis for this talk was looking at how we'
 
 Note: Dan - Shift from entirely co-located, to partly remote PM, to ad-hoc remoteness
 We've had some difficult experiences when we've injected randomness into our locations. We were ill prepared for this.
-
-
-## Team Death Spiral
-![Death Spiral](/images/death-spiral.svg "Death Spiral")
-
-Note:
-Dan - point out link between 5 Dysfunctions of a Team & Project Aristotle. Transition to next slide: so how do you climb out of this death spiral?
 
 
 
@@ -62,6 +63,10 @@ Note: the characteristics of a humane team aren't the same for all teams; it wil
 ![Lifecycle](/images/lifecycle.svg "Lifecycle")
 
 Note: Emma to discuss: Using the framework of an employee's "lifecycle" we can start to compare the merits of collocated vs. distributed teams.
+
+
+
+![Schedule](/images/calendar-emma.png)
 
 
 
@@ -97,6 +102,7 @@ Emma - documentation enforces consistency, and makes it clearer when processes n
 
 ## Work from shared values
 
+Note: regardless of practices, having a set of team values allows you to anchor the things you believe in. Practices will change depending on context, but values don't
 
 
 ## XP Values
