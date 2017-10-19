@@ -66,10 +66,6 @@ Note: Emma to discuss: Using the framework of an employee's "lifecycle" we can s
 
 
 
-![Schedule](/images/calendar-emma.png)
-
-
-
 # Characteristics of Humane Teams
 
 Note: regardless of whether you are collocated, distributed or blended, these are our top lessons from having shared our experiences / stories.
@@ -77,6 +73,7 @@ Note: regardless of whether you are collocated, distributed or blended, these ar
 
 
 ## Prepare for the schedule you are planning to work
+![Schedule](/images/calendar-emma.png)
 
 Note: Make it obvious how to communicate immediately in any context. Hardware, AV, Logistics, Room bookings.
 
