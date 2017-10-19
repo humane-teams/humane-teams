@@ -75,7 +75,8 @@ Note: regardless of whether you are collocated, distributed or blended, these ar
 ## Prepare for the schedule you are planning to work
 ![Schedule](/images/calendar-emma.png)
 
-Note: Make it obvious how to communicate immediately in any context. Hardware, AV, Logistics, Room bookings.
+Note:
+Make it obvious how to communicate immediately in any context. Hardware, AV, Logistics, Room bookings.
 
 Shared calendar; time.is, timebuddy (iOS app)
 
