@@ -77,6 +77,8 @@ Note: regardless of whether you are collocated, distributed or blended, these ar
 
 Note: Make it obvious how to communicate immediately in any context. Hardware, AV, Logistics, Room bookings.
 
+Shared calendar; time.is, timebuddy (iOS app)
+
 
 
 ## Make work achievable
